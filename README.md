@@ -1,4 +1,4 @@
-# 🟢 Projet 1 — Système de gestion de bibliothèque universitaire
+# Projet 1 — Système de gestion de bibliothèque universitaire
 
 > **Statut** : Réalisé | **Niveau** : Intermédiaire | **Durée** : 4-6 semaines
 
